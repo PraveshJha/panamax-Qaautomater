@@ -1,0 +1,259 @@
+{
+    "rutu.shah@panamaxil.com": {
+        "firstName": "Rutu",
+        "lastName": "Shah",
+        "secretKey": "Qabunch",
+        "accounts": [
+            "Panamax_Mobifin",
+            "Panamax_MobifinDelivery"
+        ]
+    },
+    "abhinow.kumar@panamaxil.com": {
+        "firstName": "Abhinav",
+        "lastName": "Kumar",
+        "secretKey": "Qabunch",
+        "accounts": [
+            "Panamax_Mobifin",
+            "Panamax_MobifinDelivery"
+        ]
+    },
+    "krinal.thakkar@panamaxil.com": {
+        "firstName": "Krinal",
+        "lastName": "Thakkar",
+        "secretKey": "Qabunch",
+        "accounts": [
+            "Panamax_Mobifin",
+            "Panamax_MobifinDelivery"
+        ]
+    },
+    "sachin.chat@panamaxil.com": {
+        "firstName": "Sachin",
+        "lastName": "Chat",
+        "secretKey": "Qabunch",
+        "accounts": [
+            "Panamax_Mobifin",
+            "Panamax_MobifinDelivery",
+            "Panamax_Mediation",
+            "Panamax_Integrari",
+            "Panamax_Pluto",
+            "Panamax_HLRDiscover",
+            "Panamax_CM",
+            "Panamax_UM",
+            "Panamax_RA",
+            "Panamax_FMS",
+            "Panamax_SBC",
+            "Panamax_iMax",
+            "Panamax_B2C",
+            "Panamax_BillCall"
+        ]
+    },
+    "navneet.bhargavan@panamaxil.com": {
+        "firstName": "Navneet",
+        "lastName": "Bhargavan",
+        "secretKey": "Qabunch",
+        "accounts": [
+            "Panamax_Mobifin",
+            "Panamax_MobifinDelivery"
+        ]
+    },
+    "yogiraj.parekh@panamaxil.com": {
+        "firstName": "Yograj",
+        "lastName": "Parekh",
+        "secretKey": "Qabunch",
+        "accounts": [
+            "Panamax_Mobifin",
+            "Panamax_MobifinDelivery"
+        ]
+    },
+    "harmeet.saini@panamaxil.com": {
+        "firstName": "Harmeet",
+        "lastName": "Saini",
+        "secretKey": "Qabunch",
+        "accounts": [
+            "Panamax_Mediation",
+            "Panamax_Integrari",
+            "Panamax_Pluto",
+            "Panamax_HLRDiscover",
+            "Panamax_CM",
+            "Panamax_UM",
+            "Panamax_RA",
+            "Panamax_FMS",
+            "Panamax_SBC",
+            "Panamax_iMax",
+            "Panamax_B2C",
+            "Panamax_BillCall"
+        ]
+    },
+    "vivek.shah@panamaxil.com": {
+        "firstName": "Vivek",
+        "lastName": "Shah",
+        "secretKey": "Panamax@1234",
+        "accounts": [
+            "Panamax_BillCall",
+            "Panamax_Mediation",
+            "Panamax_Integrari",
+            "Panamax_Pluto",
+            "Panamax_HLRDiscover",
+            "Panamax_CM",
+            "Panamax_UM",
+            "Panamax_RA",
+            "Panamax_FMS",
+            "Panamax_SBC",
+            "Panamax_iMax",
+            "Panamax_B2C"
+        ]
+    },
+    "hardik.kothivar@panamaxil.com": {
+        "firstName": "Hardik",
+        "lastName": "Kothivar",
+        "secretKey": "harN@666",
+        "accounts": [
+            "Panamax_BillCall",
+            "Panamax_Mediation",
+            "Panamax_Integrari",
+            "Panamax_Pluto",
+            "Panamax_HLRDiscover",
+            "Panamax_CM",
+            "Panamax_UM",
+            "Panamax_RA",
+            "Panamax_FMS",
+            "Panamax_SBC",
+            "Panamax_iMax",
+            "Panamax_B2C"
+        ]
+    },
+    "jayraj.makwana@panamaxil.com": {
+        "firstName": "Jayraj",
+        "lastName": "Makwana",
+        "secretKey": "Panamax@1234",
+        "accounts": [
+            "Panamax_BillCall",
+            "Panamax_Mediation",
+            "Panamax_Integrari",
+            "Panamax_Pluto",
+            "Panamax_HLRDiscover",
+            "Panamax_CM",
+            "Panamax_UM",
+            "Panamax_RA",
+            "Panamax_FMS",
+            "Panamax_SBC",
+            "Panamax_iMax",
+            "Panamax_B2C"
+        ]
+    },
+    "roshan.dandage@panamaxil.com": {
+        "firstName": "Roshan",
+        "lastName": "Dandage",
+        "secretKey": "Panamax@1234",
+        "accounts": [
+            "Panamax_BillCall",
+            "Panamax_Mediation",
+            "Panamax_Integrari",
+            "Panamax_Pluto",
+            "Panamax_HLRDiscover",
+            "Panamax_CM",
+            "Panamax_UM",
+            "Panamax_RA",
+            "Panamax_FMS",
+            "Panamax_SBC",
+            "Panamax_iMax",
+            "Panamax_B2C"
+        ]
+    },
+    "pallavi.sadabal@panamaxil.com": {
+        "firstName": "Pallavi",
+        "lastName": "Sadabal",
+        "secretKey": "Panamax@1234",
+        "accounts": [
+            "Panamax_BillCall",
+            "Panamax_Mediation",
+            "Panamax_Integrari",
+            "Panamax_Pluto",
+            "Panamax_HLRDiscover",
+            "Panamax_CM",
+            "Panamax_UM",
+            "Panamax_RA",
+            "Panamax_FMS",
+            "Panamax_SBC",
+            "Panamax_iMax",
+            "Panamax_B2C"
+        ]
+    },
+    "sumit.rajpurohit@panamaxil.com": {
+        "firstName": "Sumit",
+        "lastName": "Rajpurohit",
+        "secretKey": "Panamax@1234",
+        "accounts": [
+            "Panamax_BillCall",
+            "Panamax_Mediation",
+            "Panamax_Integrari",
+            "Panamax_Pluto",
+            "Panamax_HLRDiscover",
+            "Panamax_CM",
+            "Panamax_UM",
+            "Panamax_RA",
+            "Panamax_FMS",
+            "Panamax_SBC",
+            "Panamax_iMax",
+            "Panamax_B2C"
+        ]
+    },
+    "ravindra.kopnar@panamaxil.com": {
+        "firstName": "Ravindra",
+        "lastName": "Kopnar",
+        "secretKey": "Panamax@1234",
+        "accounts": [
+            "Panamax_BillCall",
+            "Panamax_Mediation",
+            "Panamax_Integrari",
+            "Panamax_Pluto",
+            "Panamax_HLRDiscover",
+            "Panamax_CM",
+            "Panamax_UM",
+            "Panamax_RA",
+            "Panamax_FMS",
+            "Panamax_SBC",
+            "Panamax_iMax",
+            "Panamax_B2C"
+        ]
+    },
+    "arun.tanksali@panamaxil.com": {
+        "firstName": "Arun",
+        "lastName": "Tanksali",
+        "secretKey": "Qabunch",
+        "accounts": [
+            "Panamax_Mobifin",
+            "Panamax_MobifinDelivery",
+            "Panamax_Mediation",
+            "Panamax_Integrari",
+            "Panamax_Pluto",
+            "Panamax_HLRDiscover",
+            "Panamax_CM",
+            "Panamax_UM",
+            "Panamax_RA",
+            "Panamax_FMS",
+            "Panamax_SBC",
+            "Panamax_iMax",
+            "Panamax_B2C",
+            "Panamax_BillCall"
+        ]
+    },
+    "tushar.vinchhi@panamaxil.com": {
+        "firstName": "Tushar",
+        "lastName": "Vinchhi",
+        "secretKey": "QaBunch",
+        "accounts": [
+            "Panamax_Mobifin",
+            "Panamax_MobifinDelivery"
+        ]
+    },
+    "sagar.vaghela@panamaxil.com": {
+        "firstName": "Sagar",
+        "lastName": "Vaghela",
+        "secretKey": "QaBunch",
+        "accounts": [
+            "Panamax_Mobifin",
+            "Panamax_MobifinDelivery"
+        ]
+    }
+}
