@@ -55,5 +55,37 @@ var QaBunchAccessKey = {
         jwtkey: '7WvXqOgYrSdNcJpHbTf',
         cryptokey: '6BzVrGxYpSdWcAqHjNf'
     },
+    Panamax_CitizenPay: {
+        jwtkey: '7WvXqOgY$%^SdNcJpHbTf',
+        cryptokey: '6BzVr$%^YpSdWcAqHjNf'
+    },
+    Panamax_ETH: {
+        jwtkey: '7Wv@###qOgY$%^SdNcJpHbTf',
+        cryptokey: '6%%%%BzVr$%^YpSdWcAqHjNf'
+    },
+    Panamax_CRDB: {
+        jwtkey: '5$Wv@###qOgY$%^SdNcJpHbTf',
+        cryptokey: '16%%%%BzVr$%^YpSdWcAqHjNf'
+    },
+    Panamax_Stanbic: {
+        jwtkey: '5$Wv@###qOgY$%^SdNcJp#$',
+        cryptokey: '16%%%%BzVr$%^YpSdWcAqH&**'
+    },
+    Panamax_APSInternational: {
+        jwtkey: '5$Wv^^^@###qOgY$%^SdNcJp#$',
+        cryptokey: '100%%%%BzVr$%^YpSdWcAqH&**'
+    },
+    Panamax_NassWallet: {
+        jwtkey: '5$Wv^^&^@###qOgY$%^SdNcJp#$',
+        cryptokey: '7&00%%%%BzVr$%^YpSdWcAqH&**'
+    },
+    Panamax_Tangerien: {
+        jwtkey: '($Wv^^&^@###qOgY$%^SdNcJp#$',
+        cryptokey: '}&00%%%%BzVr$%^YpSdWcAqH&**'
+    },
+    Panamax_Mobifin_Dev: {
+        jwtkey: '4aaaZpFvXcR1bTn3AqWs9Y0',
+        cryptokey: '7NaaazSdWxRfIbVjAqGmYpL'
+    },
 };
 module.exports = { QaBunchAccessKey }
