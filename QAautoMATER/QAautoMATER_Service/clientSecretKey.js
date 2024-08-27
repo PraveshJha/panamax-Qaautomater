@@ -1,91 +1,91 @@
 var QaBunchAccessKey = {
     Panamax_Mobifin: {
-        jwtkey: '4ZpFvXcR1bTn3AqWs9Y0',
-        cryptokey: '7NzSdWxRfIbVjAqGmYpL'
+        jwtkey: '99ZpFvXcR1bTn3AqWs9Y0',
+        cryptokey: '1NzSdWxRfIbVjAqGmYpL1'
     },
     Panamax_MobifinDelivery: {
-        jwtkey: '8HxGmUvI3jKqPn1RzSbN',
-        cryptokey: '3HvKbPnZmXgQcJrSdYwA'
+        jwtkey: '89HxGmUvI3jKqPn1RzSbN',
+        cryptokey: '2HvKbPnZmXgQcJrSdYwA2'
     },
     Panamax_BillCall: {
-        jwtkey: '6JdQfOgY2xWvNzAp7LmH',
-        cryptokey: '2RwVzJxLbAqWpUySdYgN'
+        jwtkey: '699JdQfOgY2xWvNzAp7LmH',
+        cryptokey: '3RwVzJxLbAqWpUySdYgN3'
     },
     Panamax_B2C: {
-        jwtkey: '5XrFa1Bp2EwGc3VxSdRz',
-        cryptokey: '6NvXjMzWqSbGpLcYrKfH'
+        jwtkey: '5999XrFa1Bp2EwGc3VxSdRz',
+        cryptokey: '4999NvXjMzWqSbGpLcYrKfH4'
     },
     Panamax_iMax: {
-        jwtkey: '9IbQeRc1jYpUw2VxNzHg',
-        cryptokey: '8FqWjNpGcTbZvSdRyAeH'
+        jwtkey: '9999IbQeRc1jYpUw2VxNzHg',
+        cryptokey: '5FqWjNpGcTbZvSdRyAeH5'
     },
     Panamax_SBC: {
-        jwtkey: '3KlPbVzOg5JdXrAqWsFv',
-        cryptokey: '5YvUjWpXgMzQbSdRnFc'
+        jwtkey: '3xxxxKlPbVzOg5JdXrAqWsFv',
+        cryptokey: '644444YvUjWpXgMzQbSdRnFc6'
     },
     Panamax_FMS: {
-        jwtkey: '7UzAqYrGpVb3XwSdNcTf',
-        cryptokey: '9BzAqJxRvYpSbGmWcNf'
+        jwtkey: '4447UzAqYrGpVb3XwSdNcTf',
+        cryptokey: '7BzAqJxRvYpSbGmWcNf7'
     },
     Panamax_RA: {
-        jwtkey: '1MvZaQbPcRdSfWgXhYjN',
-        cryptokey: '4KqRgYbWpNzJxVcSdMhA'
+        jwtkey: '1ffMvZaQbPcRdSfWgXhYjN',
+        cryptokey: '8KqRgYbWpNzJxVcSdMh8'
     },
     Panamax_UM: {
-        jwtkey: '2TfAqWbSdYjRvXcNpHg',
-        cryptokey: '1LbNzGwXpYqAeRvJcSd'
+        jwtkey: '2f23TfAqWbSdYjRvXcNpHg',
+        cryptokey: '9LbNzGwXpYqAeRvJcS9'
     },
     Panamax_CM: {
-        jwtkey: '4XvCqZaTbGpNfHwYjRd',
-        cryptokey: '7SbXmHvYpZwQrAeTcGj'
+        jwtkey: '34dfgh4XvCqZaTbGpNfHwYjRd',
+        cryptokey: '10SbXmHvYpZwQrAeTcG10'
     },
     Panamax_HLRDiscover: {
-        jwtkey: '8WmYrCjUqVgSbNzHxLd',
-        cryptokey: '2TbVgSdWpRcAqYmXjHn'
+        jwtkey: 'ghj568WmYrCjUqVgSbNzHxLd',
+        cryptokey: '11TbVgSdWpRcAqYmXjHn11'
     },
     Panamax_Pluto: {
-        jwtkey: '6GjHrTcYvXnSbWmZpAq',
-        cryptokey: '8GzJbNcYvXrAqHwSpRf'
+        jwtkey: 'FG6GjHrTcYvXnSbWmZpAq',
+        cryptokey: '12GzJbNcYvXrAqHwSpRf12'
     },
     Panamax_Integrari: {
-        jwtkey: '9OcRwXgBmSjQvYzAqHd',
-        cryptokey: '4ZvWmYrJgXcAqPbSnTf'
+        jwtkey: '&*(9OcRwXgBmSjQvYzAqHd',
+        cryptokey: '134ZvWmYrJgXcAqPbSnTf13'
     },
     Panamax_Mediation: {
-        jwtkey: '7WvXqOgYrSdNcJpHbTf',
-        cryptokey: '6BzVrGxYpSdWcAqHjNf'
+        jwtkey: '!7WvXqOgYrS%$#dNcJpHbTf',
+        cryptokey: '146BzVrGxYpSdWcAqHjNf14'
     },
     Panamax_CitizenPay: {
-        jwtkey: '7WvXqOgY$%^SdNcJpHbTf',
-        cryptokey: '6BzVr$%^YpSdWcAqHjNf'
+        jwtkey: '@#!7WvXqOgY$%^SdNcJpHbTf',
+        cryptokey: '156BzVr$%^YpSdWcAqHjNf15'
     },
     Panamax_ETH: {
-        jwtkey: '7Wv@###qOgY$%^SdNcJpHbTf',
-        cryptokey: '6%%%%BzVr$%^YpSdWcAqHjNf'
+        jwtkey: '%^$$$7Wv@###qOgY$%^SdNcJpHbTf',
+        cryptokey: '166%%%%BzVr$%^YpSdWcAqHjNf16'
     },
     Panamax_CRDB: {
-        jwtkey: '5$Wv@###qOgY$%^SdNcJpHbTf',
-        cryptokey: '16%%%%BzVr$%^YpSdWcAqHjNf'
+        jwtkey: '*&^FFF5$Wv@###qOgY$%^SdNcJpHbTf',
+        cryptokey: '1716%%%%BzVr$%^YpSdWcAqHjNf17'
     },
     Panamax_Stanbic: {
-        jwtkey: '5$Wv@###qOgY$%^SdNcJp#$',
-        cryptokey: '16%%%%BzVr$%^YpSdWcAqH&**'
+        jwtkey: '&****5$Wv@###qOgY$%^SdNcJp#$',
+        cryptokey: '1816%%%%BzVr$%^YpSdWcAqH&**18'
     },
     Panamax_APSInternational: {
-        jwtkey: '5$Wv^^^@###qOgY$%^SdNcJp#$',
-        cryptokey: '100%%%%BzVr$%^YpSdWcAqH&**'
+        jwtkey: '&&&&5$Wv^^^@###qOgY$%^SdNcJp#$',
+        cryptokey: '19100%%%%BzVr$%^YpSdWcAqH&**19'
     },
     Panamax_NassWallet: {
-        jwtkey: '5$Wv^^&^@###qOgY$%^SdNcJp#$',
-        cryptokey: '7&00%%%%BzVr$%^YpSdWcAqH&**'
+        jwtkey: '5**($Wv^^&^@###qOgY$%^SdNcJp#$',
+        cryptokey: '207&00%%%%BzVr$%^YpSdWcAqH&**20'
     },
     Panamax_Tangerien: {
-        jwtkey: '($Wv^^&^@###qOgY$%^SdNcJp#$',
-        cryptokey: '}&00%%%%BzVr$%^YpSdWcAqH&**'
+        jwtkey: 'jhg($Wv^^&^@###qOgY$%^SdNcJp#$',
+        cryptokey: '21}&00%%%%BzVr$%^YpSdWcAqH&**21'
     },
     Panamax_Mobifin_Dev: {
-        jwtkey: '4aaaZpFvXcR1bTn3AqWs9Y0',
-        cryptokey: '7NaaazSdWxRfIbVjAqGmYpL'
+        jwtkey: '6ggff4aaaZpFvXcR1bTn3AqWs9Y0',
+        cryptokey: '227NaaazSdWxRfIbVjAqGmYpL22'
     },
 };
 module.exports = { QaBunchAccessKey }
